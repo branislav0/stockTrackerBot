@@ -1,6 +1,5 @@
 
-![Bot Screenshot]([https://raw.githubusercontent.com/branislavcizmar/telegram-bot/main/images/bot-preview.png](https://github.com/branislav0/stockTrackerBot/blob/d6d51940e6ff52e92e88c3c8cefe09ffe59e72f6/Sn%C3%ADmka%20obrazovky%202025-03-07%20162348.png))
-
+![Description](https://github.com/branislav0/stockTrackerBot/blob/main/Sn%C3%ADmka%20obrazovky%202025-03-07%20162348.png?raw=true)
 
 **Telegram Stock & Crypto Tracker Bot**
 Overview
